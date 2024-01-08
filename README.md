@@ -23,6 +23,8 @@ despite the fact that Sri Lanka has a lot of potential for sea cucumber farming 
 
 
 ##IT20024222- T.N.Hettiarachchi
+
+
 Individual Research Question -
 
 Currently, species identification shall happen only by well-experienced individuals through their naked eye and no technology is used in the
@@ -35,6 +37,8 @@ To categorize and combine different species of sea cucumber based on their physi
 
 
 ##IT20142278 - Jayasekara T.K.K.
+
+
 Individual Research Question -
 
 Most research on sea cucumber juveniles in Sri Lanka has focused on their biology and ecology. There is a lack of research into the use of technology and
@@ -49,6 +53,8 @@ total biomass of it with the help of the mobile application.
 
 
 ##IT20256500 - R.K.M Thushamini
+
+
 Individual Research Question -
 
 How to identify the weight of the sea cucumbers based on the length of the individual and predict their market value in Sri Lanka based on their weight.
