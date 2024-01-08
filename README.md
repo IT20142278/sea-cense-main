@@ -49,7 +49,7 @@ effectively predict the growth and biomass of sea cucumber juveniles in Sri Lank
 Individual Research Objective -
 
 Identify the size of sea cucumber juveniles using image processing by detecting the features of it and then categorize them into small (1.5 g), 
-medium (3.5g), and big  (7.5 g) sizes according to the categorization obtained.
+medium (3.5g), and big  (7.5 g) sizes accordingly.
 It then provides results regarding survival rate, specific growth rate per day and total biomass, which can be used to inform sustainable aquaculture practices.
 
 
