@@ -1,4 +1,4 @@
-# Sea Cense – A Commercially Valued Sea Cucumber Analyzer Mobile App
+# Sea Cense – A Commercially Valued Sea Cucumber Analyzer Mobile App (4th Year Research Project)
 
 Flutter Channel stable -- 3.10.4
 
