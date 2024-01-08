@@ -1,4 +1,4 @@
-# Sea Cense – A Commercially Valued Sea Cucumber Analyzer
+# Sea Cense – A Commercially Valued Sea Cucumber Analyzer Mobile App
 
 Flutter Channel stable -- 3.10.4
 
@@ -22,7 +22,7 @@ projecting their growth and survival rates, and figuring out the quality of comm
 despite the fact that Sri Lanka has a lot of potential for sea cucumber farming and exports.
 
 
-##IT20024222- T.N.Hettiarachchi
+#IT20024222- T.N.Hettiarachchi
 
 
 Individual Research Question -
@@ -36,7 +36,7 @@ Individual Research Objective -
 To categorize and combine different species of sea cucumber based on their physical and taxonomic characteristics for easy identification purposes.
 
 
-##IT20142278 - Jayasekara T.K.K.
+#IT20142278 - Jayasekara T.K.K.
 
 
 Individual Research Question -
@@ -52,7 +52,7 @@ the categorization we identify earlier, predicting it’s survival rate, specifi
 total biomass of it with the help of the mobile application.
 
 
-##IT20256500 - R.K.M Thushamini
+#IT20256500 - R.K.M Thushamini
 
 
 Individual Research Question -
@@ -65,7 +65,7 @@ Using image processing to identify the length of the sea cucumber and estimate t
 and predicting the prices relevant to the wet weight with the help of the mobile application.
 
 
-##IT19065922- U.M.G.T Herath
+#IT19065922- U.M.G.T Herath
 
 Individual Research Question -
 How to Identify the processed sea cucumbers and how to predict whether they are in proper export quality based on
