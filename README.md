@@ -69,10 +69,12 @@ and predicting the prices relevant to the wet weight with the help of the mobile
 #IT19065922- U.M.G.T Herath
 
 Individual Research Question -
+
 How to Identify the processed sea cucumbers and how to predict whether they are in proper export quality based on
 color and appearance through image processing overriding the visual inspection mechanism that is currently being practiced in Sri Lanka.
 
 Individual Research Objective -
+
 Develop a standardized method to assess the quality of processed sea cucumbers based on visual aspects (color and appearance).
 
 
